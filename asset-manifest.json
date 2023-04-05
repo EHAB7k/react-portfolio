@@ -1,9 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.e2a231cd.css",
-    "main.js": "/react-portfolio/static/js/main.d3f5cf3c.js",
+    "main.js": "/react-portfolio/static/js/main.c56189c2.js",
     "static/js/787.a7249224.chunk.js": "/react-portfolio/static/js/787.a7249224.chunk.js",
-    "static/media/file_eats.pdf": "/react-portfolio/static/media/file_eats.4405ba2fb7b255f40467.pdf",
     "static/media/E7k.png": "/react-portfolio/static/media/E7k.a20309e57ec2138ec046.png",
     "static/media/certificate-Eng.png": "/react-portfolio/static/media/certificate-Eng.6ac88d31b122adc641c1.png",
     "static/media/certificate-dom.png": "/react-portfolio/static/media/certificate-dom.894796b9b0fd909ec91d.png",
@@ -26,6 +25,7 @@
     "static/media/logo.svg": "/react-portfolio/static/media/logo.bba63c759c3e6abe565c79a721303680.svg",
     "static/media/linux.svg": "/react-portfolio/static/media/linux.ff969ad1bae76cb9a7cc6aca65fd15f5.svg",
     "static/media/kubernetes.svg": "/react-portfolio/static/media/kubernetes.9c2b252df012670856cc2db6e7364d84.svg",
+    "static/media/helo.xlsx": "/react-portfolio/static/media/helo.53fe973a5c52cb52f761.xlsx",
     "static/media/react.svg": "/react-portfolio/static/media/react.e27571eaed899c642345e71163624ef9.svg",
     "static/media/ansible.svg": "/react-portfolio/static/media/ansible.29daedfddb3a74aee8b0b4dc822bdd2c.svg",
     "static/media/bash.svg": "/react-portfolio/static/media/bash.31469aae70b8e95103fe760027703efa.svg",
@@ -47,11 +47,11 @@
     "static/media/windows.svg": "/react-portfolio/static/media/windows.680a11acd0ab401f69e83c7caba17dc0.svg",
     "index.html": "/react-portfolio/index.html",
     "main.e2a231cd.css.map": "/react-portfolio/static/css/main.e2a231cd.css.map",
-    "main.d3f5cf3c.js.map": "/react-portfolio/static/js/main.d3f5cf3c.js.map",
+    "main.c56189c2.js.map": "/react-portfolio/static/js/main.c56189c2.js.map",
     "787.a7249224.chunk.js.map": "/react-portfolio/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2a231cd.css",
-    "static/js/main.d3f5cf3c.js"
+    "static/js/main.c56189c2.js"
   ]
 }
