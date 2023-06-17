@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.e2a231cd.css",
-    "main.js": "/react-portfolio/static/js/main.5f6333b3.js",
+    "main.js": "/react-portfolio/static/js/main.1a2f4c81.js",
     "static/js/787.a7249224.chunk.js": "/react-portfolio/static/js/787.a7249224.chunk.js",
     "static/media/E7k.png": "/react-portfolio/static/media/E7k.a20309e57ec2138ec046.png",
     "static/media/certificate-Eng.png": "/react-portfolio/static/media/certificate-Eng.6ac88d31b122adc641c1.png",
@@ -20,10 +20,9 @@
     "static/media/mikrotik.svg": "/react-portfolio/static/media/mikrotik.d2e17a6764779d1cc982433d85aeeb58.svg",
     "static/media/besic-python.png": "/react-portfolio/static/media/besic-python.d5f6cff42385c3199ca0.png",
     "static/media/front-end-framework.png": "/react-portfolio/static/media/front-end-framework.2d0d0b700a8ec3a8df74.png",
-    "static/media/resume1.pdf": "/react-portfolio/static/media/resume1.532b80258e41bbf01e03.pdf",
     "static/media/mtcna.jpg": "/react-portfolio/static/media/mtcna.2ee5684f51d76ad95490.jpg",
+    "static/media/eCv2023.pdf": "/react-portfolio/static/media/eCv2023.7871348de3a6b97d90d5.pdf",
     "static/media/05-Soft Skills-RUH-093.png": "/react-portfolio/static/media/05-Soft Skills-RUH-093.962aae292f7a2d29cd90.png",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.bba63c759c3e6abe565c79a721303680.svg",
     "static/media/linux.svg": "/react-portfolio/static/media/linux.ff969ad1bae76cb9a7cc6aca65fd15f5.svg",
     "static/media/kubernetes.svg": "/react-portfolio/static/media/kubernetes.9c2b252df012670856cc2db6e7364d84.svg",
     "static/media/react.svg": "/react-portfolio/static/media/react.e27571eaed899c642345e71163624ef9.svg",
@@ -47,11 +46,11 @@
     "static/media/windows.svg": "/react-portfolio/static/media/windows.680a11acd0ab401f69e83c7caba17dc0.svg",
     "index.html": "/react-portfolio/index.html",
     "main.e2a231cd.css.map": "/react-portfolio/static/css/main.e2a231cd.css.map",
-    "main.5f6333b3.js.map": "/react-portfolio/static/js/main.5f6333b3.js.map",
+    "main.1a2f4c81.js.map": "/react-portfolio/static/js/main.1a2f4c81.js.map",
     "787.a7249224.chunk.js.map": "/react-portfolio/static/js/787.a7249224.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e2a231cd.css",
-    "static/js/main.5f6333b3.js"
+    "static/js/main.1a2f4c81.js"
   ]
 }
