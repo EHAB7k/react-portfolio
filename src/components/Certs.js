@@ -1,5 +1,4 @@
 import CertCard from "./CertCard.js";
-
 import hr from "../assets/curve-hr.svg";
 import certificateHtml from "../assets/certificate/certificate-html.png";
 import certificatecss from "../assets/certificate/certificate-css.png";
@@ -7,7 +6,6 @@ import certificateBootstrap from "../assets/certificate/certificate-bootstrap.pn
 import javascript101 from "../assets/certificate/certificate-javascript-101.png";
 import javascript102 from "../assets/certificate/certificate-javascript-102.png";
 import domJs from "../assets/certificate/certificate-dom.png";
-
 import nodejs101 from "../assets/certificate/certificate-node.js.png";
 import react101 from "../assets/certificate/certificate-react101.png";
 import react102 from "../assets/certificate/certificate-react102.png";
@@ -18,9 +16,6 @@ import frontEndFramework from "../assets/certificate/front-end-framework.png";
 import softSkills from "../assets/certificate/05-Soft Skills-RUH-093.png";
 import basicPython from "../assets/certificate/besic-python.png";
 import certificateEng from "../assets/certificate/certificate-Eng.png";
-
-// import
-
 export default function Certs() {
   const Certifications = [
     {
@@ -126,7 +121,6 @@ export default function Certs() {
       <p className="font-light text-gray-400">
         Here are some of my Certifications
       </p>
-
       <div className="grid grid-cols-1 md:grid-cols-3 justify-center mt-4 gap-5">
         <CertCard
           name="basic Python"

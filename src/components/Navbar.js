@@ -17,7 +17,6 @@ export default function Navbar() {
               Skills
             </a>
           </li>
-          {/* <li className="p-4"><a href="#honors" className="hover:underline">Honor & Awards</a></li> */}
           <li className="p-4">
             <a href="#certs" className="hover:underline">
               Certfications
@@ -28,7 +27,7 @@ export default function Navbar() {
           href={resume}
           rel="noreferrer"
           target="_blank"
-          className=" bg-teal-500 rounded-full px-4 py-1 border border-teal-800 border border-4"
+          className=" bg-teal-500 rounded-full px-4 py-1 border-teal-800 border-4"
         >
           Resume
         </a>
